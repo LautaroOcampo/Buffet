@@ -7,7 +7,7 @@ import amarilla from '../imgs/amarilla.png';
 import roja from '../imgs/roja.png';
 import partidos from '../imgs/partido.png';
 import arrow from '../imgs/arrow.png';
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
 export const JugadoresList = () => {                                                       
     const data = Data();

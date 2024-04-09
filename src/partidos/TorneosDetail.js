@@ -1,4 +1,5 @@
 import "../App.css"
+import React from 'react';
 import { Link, useParams } from "react-router-dom";
 import { Data } from '../data/Data';
 import { PartidosList } from "./PartidosList";

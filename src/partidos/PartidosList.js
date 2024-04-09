@@ -1,4 +1,5 @@
 import '../App.css';
+import React from 'react';
 import { Data } from '../data/Data';
 import { PartidosItem } from './PartidosItem';
 

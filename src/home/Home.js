@@ -1,5 +1,6 @@
 import '../App.css';
 import logo from '../imgs/file.png';
+import React from 'react';
 import {BrowserRouter,Routes,Route,Link} from 'react-router-dom'
 import {Data} from '../data/Data'
 import { useEffect } from 'react';

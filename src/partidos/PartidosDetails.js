@@ -1,4 +1,5 @@
 import '../App.css';
+import React from 'react';
 import escudo from '../imgs/file.png';
 import escudoEstandar from '../imgs/escudo estandar.png'
 import { Data } from '../data/Data'

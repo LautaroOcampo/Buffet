@@ -1,4 +1,5 @@
 import { Link, useParams } from "react-router-dom";
+import React from 'react';
 import "../App.css"
 import {Data} from '../data/Data'
 
